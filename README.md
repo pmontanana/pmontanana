@@ -1,5 +1,7 @@
-## Hi there 👋
-
+<br/>
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pmontanana&count_private=true&include_all_commits=true&show_icons=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmontanana&layout=compact">
 <!--
 **pmontanana/pmontanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
