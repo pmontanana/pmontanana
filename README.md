@@ -1,5 +1,7 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pmontanana&rank_icon=percentile&custom_title=Estadisticas%20de%20Github&show_icons=true&include_all_commits=true&theme=solarized-dark)](https://github-stats-extended.vercel.app/api?username=pmontanana&rank_icon=percentile&custom_title=Estadisticas%20de%20Github&show_icons=true&include_all_commits=true&theme=solarized-dark)
+<br>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pmontanana&layout=compact&langs_count=10&theme=solarized-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=pmontanana&layout=compact&langs_count=10&theme=solarized-dark)
+<br>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pmontanana&repo=pmontanana%2Ftfg-daw&show_owner=true&description_lines_count=3&theme=solarized-dark)](https://github.com/pmontanana/tfg-daw)
 
 <!--
