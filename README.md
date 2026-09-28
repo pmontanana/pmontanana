@@ -2,7 +2,7 @@
 <br>
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=pmontanana&layout=compact&langs_count=10&theme=solarized-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=pmontanana&layout=compact&langs_count=10&theme=solarized-dark)
 <br>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pmontanana&repo=pmontanana%2Ftfg-daw&show_owner=true&description_lines_count=3&theme=solarized-dark)](https://github.com/pmontanana/tfg-daw)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=pmontanana&repo=pmontanana%2Ftfg-daw&show_owner=true&description_lines_count=1&theme=solarized-dark)](https://github.com/pmontanana/tfg-daw)
 
 <!--
 **pmontanana/pmontanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
